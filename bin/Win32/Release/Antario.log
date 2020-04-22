@@ -1,0 +1,8 @@
+﻿cl : Linha de comando warning D9025: substituindo '/sdl-' com '/GS-'
+cl : Linha de comando warning D9025: substituindo '/sdl-' com '/GS-'
+cl : Linha de comando warning D9025: substituindo '/sdl-' com '/GS-'
+  AntiAim.cpp
+  Resolver.cpp
+LINK : warning LNK4075: ignorando '/INCREMENTAL' devido a especificação '/OPT:ICF'
+     Criando biblioteca C:\Users\HASH\Downloads\Cheats\Digitalwave.pro\build\Win32\Release\Digitalwave.pro.lib e objeto C:\Users\HASH\Downloads\Cheats\Digitalwave.pro\build\Win32\Release\Digitalwave.pro.exp
+  Antario.vcxproj -> C:\Users\HASH\Downloads\Cheats\Digitalwave.pro\build\Win32\Release\Digitalwave.pro.dll
